@@ -1,13 +1,13 @@
-package com.sample.graphql.springbootgraphqlexample;
+package com.sample.graphql.springbootgrapqlexample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootGraphqlExampleApplication {
+public class SpringBootGrapqlExampleApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootGraphqlExampleApplication.class, args);
+		SpringApplication.run(SpringBootGrapqlExampleApplication.class, args);
 	}
 
 }
